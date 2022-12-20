@@ -7,6 +7,9 @@ This uses its on virtual environment so activate venv.
 - due to huge file size `model_chatbot.pth` has been added to .gitignore.
 need manually place it inside the app folder.
 
+- export FLASK_APP=main.py
+- flask run
+
 ## Installed packages
 
     - flask
