@@ -1,44 +1,44 @@
-alabaster @ file:///home/ubuntu/src/ci/alabaster_1611921544520/work
+alabaster 
 anaconda-client==1.11.0
 anaconda-navigator==2.3.1
-anaconda-project @ file:///opt/conda/conda-bld/anaconda-project_1660339890420/work
-anyio @ file:///tmp/build/80754af9/anyio_1644463572971/work/dist
+anaconda-project
+anyio 
 appdirs==1.4.4
-argon2-cffi @ file:///opt/conda/conda-bld/argon2-cffi_1645000214183/work
-argon2-cffi-bindings @ file:///tmp/build/80754af9/argon2-cffi-bindings_1644569679365/work
-arrow @ file:///opt/conda/conda-bld/arrow_1649166651673/work
-astroid @ file:///tmp/abs_e5wkt48jiz/croots/recipe/astroid_1659023120113/work
-astropy @ file:///opt/conda/conda-bld/astropy_1657786094003/work
+argon2-cffi 
+argon2-cffi-bindings 
+arrow 
+astroid 
+astropy 
 atomicwrites==1.4.0
-attrs @ file:///opt/conda/conda-bld/attrs_1642510447205/work
-Automat @ file:///tmp/build/80754af9/automat_1600298431173/work
-autopep8 @ file:///opt/conda/conda-bld/autopep8_1650463822033/work
-Babel @ file:///tmp/build/80754af9/babel_1620871417480/work
-backcall @ file:///home/ubuntu/src/ci/backcall_1611930011877/work
-backports.functools-lru-cache @ file:///tmp/build/80754af9/backports.functools_lru_cache_1618170165463/work
-backports.tempfile @ file:///home/linux1/recipes/ci/backports.tempfile_1610991236607/work
+attrs 
+Automat 
+autopep8 
+Babel 
+backcall 
+backports.functools-lru-cache 
+backports.tempfile 
 backports.weakref==1.0.post1
-bcrypt @ file:///tmp/abs_6fpe92qzzo/croots/recipe/bcrypt_1659554336150/work
-beautifulsoup4 @ file:///opt/conda/conda-bld/beautifulsoup4_1650462163268/work
-binaryornot @ file:///tmp/build/80754af9/binaryornot_1617751525010/work
-bitarray @ file:///opt/conda/conda-bld/bitarray_1657739645104/work
+bcrypt 
+beautifulsoup4 
+binaryornot 
+bitarray 
 bkcharts==0.2
-black @ file:///opt/conda/conda-bld/black_1660237809219/work
-bleach @ file:///opt/conda/conda-bld/bleach_1641577558959/work
-bokeh @ file:///tmp/abs_34854e1f-d7d3-4f22-85d9-1075588e4ecdga64o0qg/croots/recipe/bokeh_1658136654619/work
-boto3 @ file:///tmp/abs_ae3c72db-af47-4298-baea-7270430e2c96scbpg1_h/croots/recipe/boto3_1657820109150/work
-botocore @ file:///opt/conda/conda-bld/botocore_1657739486257/work
-Bottleneck @ file:///opt/conda/conda-bld/bottleneck_1657175564434/work
+black 
+bleach
+bokeh 
+boto3 
+botocore 
+Bottleneck 
 brotlipy==0.7.0
-certifi @ file:///opt/conda/conda-bld/certifi_1663615672595/work/certifi
-cffi @ file:///tmp/abs_98z5h56wf8/croots/recipe/cffi_1659598650955/work
-chardet @ file:///tmp/build/80754af9/chardet_1607706775000/work
-charset-normalizer @ file:///tmp/build/80754af9/charset-normalizer_1630003229654/work
-click @ file:///tmp/build/80754af9/click_1646056590078/work
-cloudpickle @ file:///tmp/build/80754af9/cloudpickle_1632508026186/work
+certifi 
+cffi 
+chardet 
+charset-normalizer
+click 
+cloudpickle 
 clyent==1.2.2
-colorama @ file:///opt/conda/conda-bld/colorama_1657009087971/work
-colorcet @ file:///tmp/build/80754af9/colorcet_1651851439427/work
+colorama 
+colorcet 
 conda==22.9.0
 conda-build==3.22.0
 conda-content-trust @ file:///tmp/abs_5952f1c8-355c-4855-ad2e-538535021ba5h26t22e5/croots/recipe/conda-content-trust_1658126371814/work
@@ -70,7 +70,7 @@ et-xmlfile==1.1.0
 fastjsonschema @ file:///opt/conda/conda-bld/python-fastjsonschema_1661371079312/work
 filelock @ file:///opt/conda/conda-bld/filelock_1647002191454/work
 flake8 @ file:///opt/conda/conda-bld/flake8_1648129545443/work
-Flask @ file:///home/ubuntu/src/ci/flask_1611932660458/work
+Flask 
 fonttools==4.25.0
 fsspec @ file:///opt/conda/conda-bld/fsspec_1659972197723/work
 future @ file:///tmp/build/80754af9/future_1607571303524/work
