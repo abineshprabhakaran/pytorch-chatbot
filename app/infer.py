@@ -1,5 +1,5 @@
 # from transformers import AutoTokenizer, BertModel
-from transformers.models.bert.modeling_bert import BertModel,BertForMaskedLM
+from transformers.models.bert.modeling_bert import AutoTokenizer,BertModel,BertForMaskedLM
 from transformers import BertTokenizer
 import torch.nn.functional as F
 import torch.nn as nn
